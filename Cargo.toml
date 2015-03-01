@@ -1,0 +1,11 @@
+[package]
+
+name = "rustlike"
+version = "0.0.1"
+authors = [ "Barret Rennie <barret@brennie.ca>" ]
+
+[[bin]]
+
+name = "rustlike"
+path = "src/main.rs"
+
